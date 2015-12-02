@@ -15,6 +15,7 @@ mecab:對日文內容做斷詞及日文段詞拼音。
 來源:http://taku910.github.io/mecab/
 
 HTK:語音辨識軟體將句子等級的時文檔與WAV檔做辨識產稱字等級的時文檔。
+詳細介紹請參考http://ryresearch.blogspot.tw/2015/09/htk.html
 
 PYTHON使用模組:
 requests
